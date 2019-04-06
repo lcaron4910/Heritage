@@ -1,6 +1,7 @@
 # Heritage
 
-Présentation du projet: le but est de mettre en place l'Heritage depuis un diagramme de classe
+Présentation du projet: le but est de mettre en place l'Heritage depuis un diagramme de classe. 
+
 Les outils mis en oeuvre :
 
 * git.
