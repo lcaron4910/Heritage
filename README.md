@@ -82,5 +82,4 @@ Resultat:
 ![ResultatHeritage1.png](http://image.noelshack.com/fichiers/2019/14/6/1554560185-capture59.png)
 Chaque animaux ont bien hérité du constructeur de Mammifère.
 
-## Rendu Final ##
 
