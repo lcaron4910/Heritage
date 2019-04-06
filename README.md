@@ -7,10 +7,11 @@ Les outils mis en oeuvre :
 * git.
 * Visual studio.
 
-le développement  tourne autour de 2 hypothèses.
+### le développement  tourne autour de 2 hypothèses.  
 
-1. Mettre un heritage avec des attributs en protected.
+1. Mettre un heritage avec des attributs en protected. 
 ![Hypothese1.png](http://image.noelshack.com/fichiers/2019/14/6/1554559840-capture8.png)
+
 2. Mettre un heritage avec des attributs en private
 ![Hypothese2.png](http://image.noelshack.com/fichiers/2019/14/6/1554559776-capture15.png)
 
